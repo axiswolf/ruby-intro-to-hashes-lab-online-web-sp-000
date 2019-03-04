@@ -1,6 +1,6 @@
 def new_hash
-	newhash = {}
-	return newhash
+	new_hash = {}
+	return new_hash
 end
 
 def actor
@@ -8,7 +8,7 @@ def actor
 end
 
 def monopoly
-	monopoly =  {:railroads=>{
+	monopoly =  {:railroads => {
 		}
 	}
 end
