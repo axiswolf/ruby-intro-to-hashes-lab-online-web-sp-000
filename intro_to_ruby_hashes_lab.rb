@@ -1,15 +1,14 @@
 def new_hash
-	newhash => {}
+	newhash = {}
 	return newhash
 end
 
 def actor
-	actor => {"Dwayne The Rock Johnson"}
+	actor = {"Dwayne The Rock Johnson"}
 end
 
 def monopoly
 	monopoly = {}
-
 end
 
 def monopoly_with_second_tier
